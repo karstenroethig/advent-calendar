@@ -1,0 +1,220 @@
+{
+  "days": [
+    {
+      "day": 7,
+      "content": {
+        "title": "Eine 24-teilige Adventsgeschichte",
+        "episodeTitle": "Folge 7: Bla bla Titel",
+        "reader": "Miriam Musterfrau",
+        "audioFile": "horse.mp3"
+      }
+    },
+    {
+      "day": 17,
+      "content": {
+        "title": "Eine 24-teilige Adventsgeschichte",
+        "episodeTitle": "Folge 17: Bla bla Titel",
+        "reader": "Miriam Musterfrau",
+        "audioFile": "horse.mp3"
+      }
+    },
+    {
+      "day": 6,
+      "content": {
+        "title": "Eine 24-teilige Adventsgeschichte",
+        "episodeTitle": "Folge 6: Bla bla Titel",
+        "reader": "Miriam Musterfrau",
+        "audioFile": "horse.mp3"
+      }
+    },
+    {
+      "day": 12,
+      "content": {
+        "title": "Eine 24-teilige Adventsgeschichte",
+        "episodeTitle": "Folge 12: Bla bla Titel",
+        "reader": "Miriam Musterfrau",
+        "audioFile": "horse.mp3"
+      }
+    },
+    {
+      "day": 5,
+      "content": {
+        "title": "Eine 24-teilige Adventsgeschichte",
+        "episodeTitle": "Folge 5: Bla bla Titel",
+        "reader": "Miriam Musterfrau",
+        "audioFile": "horse.mp3"
+      }
+    },
+    {
+      "day": 9,
+      "content": {
+        "title": "Eine 24-teilige Adventsgeschichte",
+        "episodeTitle": "Folge 9: Bla bla Titel",
+        "reader": "Miriam Musterfrau",
+        "audioFile": "horse.mp3"
+      }
+    },
+    {
+      "day": 3,
+      "content": {
+        "title": "Eine 24-teilige Adventsgeschichte",
+        "episodeTitle": "Folge 3: Bla bla Titel",
+        "reader": "Miriam Musterfrau",
+        "audioFile": "horse.mp3"
+      }
+    },
+    {
+      "day": 14,
+      "content": {
+        "title": "Eine 24-teilige Adventsgeschichte",
+        "episodeTitle": "Folge 14: Bla bla Titel",
+        "reader": "Miriam Musterfrau",
+        "audioFile": "horse.mp3"
+      }
+    },
+    {
+      "day": 23,
+      "content": {
+        "title": "Eine 24-teilige Adventsgeschichte",
+        "episodeTitle": "Folge 23: Bla bla Titel",
+        "reader": "Miriam Musterfrau",
+        "audioFile": "horse.mp3"
+      }
+    },
+    {
+      "day": 15,
+      "content": {
+        "title": "Eine 24-teilige Adventsgeschichte",
+        "episodeTitle": "Folge 15: Bla bla Titel",
+        "reader": "Miriam Musterfrau",
+        "audioFile": "horse.mp3"
+      }
+    },
+    {
+      "day": 2,
+      "content": {
+        "title": "Eine 24-teilige Adventsgeschichte",
+        "episodeTitle": "Folge 2: Bla bla Titel",
+        "reader": "Miriam Musterfrau",
+        "audioFile": "horse.mp3"
+      }
+    },
+    {
+      "day": 21,
+      "content": {
+        "title": "Eine 24-teilige Adventsgeschichte",
+        "episodeTitle": "Folge 21: Bla bla Titel",
+        "reader": "Miriam Musterfrau",
+        "audioFile": "horse.mp3"
+      }
+    },
+    {
+      "day": 10,
+      "content": {
+        "title": "Eine 24-teilige Adventsgeschichte",
+        "episodeTitle": "Folge 10: Bla bla Titel",
+        "reader": "Miriam Musterfrau",
+        "audioFile": "horse.mp3"
+      }
+    },
+    {
+      "day": 18,
+      "content": {
+        "title": "Eine 24-teilige Adventsgeschichte",
+        "episodeTitle": "Folge 18: Bla bla Titel",
+        "reader": "Miriam Musterfrau",
+        "audioFile": "horse.mp3"
+      }
+    },
+    {
+      "day": 4,
+      "content": {
+        "title": "Eine 24-teilige Adventsgeschichte",
+        "episodeTitle": "Folge 4: Bla bla Titel",
+        "reader": "Miriam Musterfrau",
+        "audioFile": "horse.mp3"
+      }
+    },
+    {
+      "day": 24,
+      "content": {
+        "title": "Eine 24-teilige Adventsgeschichte",
+        "episodeTitle": "Folge 24: Bla bla Titel",
+        "reader": "Miriam Musterfrau",
+        "audioFile": "horse.mp3"
+      }
+    },
+    {
+      "day": 8,
+      "content": {
+        "title": "Eine 24-teilige Adventsgeschichte",
+        "episodeTitle": "Folge 8: Bla bla Titel",
+        "reader": "Miriam Musterfrau",
+        "audioFile": "horse.mp3"
+      }
+    },
+    {
+      "day": 13,
+      "content": {
+        "title": "Eine 24-teilige Adventsgeschichte",
+        "episodeTitle": "Folge 13: Bla bla Titel",
+        "reader": "Miriam Musterfrau",
+        "audioFile": "horse.mp3"
+      }
+    },
+    {
+      "day": 11,
+      "content": {
+        "title": "Eine 24-teilige Adventsgeschichte",
+        "episodeTitle": "Folge 11: Bla bla Titel",
+        "reader": "Miriam Musterfrau",
+        "audioFile": "horse.mp3"
+      }
+    },
+    {
+      "day": 16,
+      "content": {
+        "title": "Eine 24-teilige Adventsgeschichte",
+        "episodeTitle": "Folge 16: Bla bla Titel",
+        "reader": "Miriam Musterfrau",
+        "audioFile": "horse.mp3"
+      }
+    },
+    {
+      "day": 20,
+      "content": {
+        "title": "Eine 24-teilige Adventsgeschichte",
+        "episodeTitle": "Folge 20: Bla bla Titel",
+        "reader": "Miriam Musterfrau",
+        "audioFile": "horse.mp3"
+      }
+    },
+    {
+      "day": 19,
+      "content": {
+        "title": "Eine 24-teilige Adventsgeschichte",
+        "episodeTitle": "Folge 19: Bla bla Titel",
+        "reader": "Miriam Musterfrau",
+        "audioFile": "horse.mp3"
+      }
+    },
+    {
+      "day": 22,
+      "content": {
+        "title": "Eine 24-teilige Adventsgeschichte",
+        "episodeTitle": "Folge 22: Bla bla Titel",
+        "reader": "Miriam Musterfrau",
+        "audioFile": "horse.mp3"
+      }
+    },
+    {
+      "day": 1,
+      "content": {
+        "title": "Eine 24-teilige Adventsgeschichte",
+        "episodeTitle": "Folge 1: Bla bla Titel",
+        "reader": "Miriam Musterfrau",
+        "audioFile": "horse.mp3"
+      }
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+.door {
+  background: linear-gradient(135deg, Tomato, #ff816b);
+}
+
+.door:hover {
+  background: linear-gradient(135deg, #ff816b, Tomato);
+}
+
+.door_number {
+  margin: 0.5em;
+  font-size: 2em;
+  background: SlateBlue;
+  color: white;
+  border-radius: 50%;
+}
+
+.open, .open:hover {
+  background: gray;
+}
